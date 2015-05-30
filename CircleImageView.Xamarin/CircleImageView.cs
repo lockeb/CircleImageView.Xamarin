@@ -1,7 +1,7 @@
 ﻿/* 
  * Xamarin C# Port of hdodenhof/CircleImageView
  * Created by Bradley Locke May 2015 - brad.locke@gmail.com
- * https://github.com/blocke79/WaitingDots.Xamarin
+ * https://github.com/blocke79/CircleImageView.Xamarin
  * 
  * 
  * Originally Java version created by hdodenhof
